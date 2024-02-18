@@ -2,7 +2,7 @@ export default function ResumePage() {
 
     return (
       <>
-      Resume
+      Resume coming soon!
       </>
     );
   }

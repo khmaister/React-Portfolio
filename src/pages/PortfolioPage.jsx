@@ -1,7 +1,7 @@
 export default function PortfolioPage() {
     return (
       <>
-      Portfolio      
+      Portfolio coming soon!     
       </>
     );
   }

@@ -1,7 +1,7 @@
 import Form from '../components/Form';
 
 
-export default function ContacPage() {
+export default function ContactPage() {
     return (
       <>
       <Form />
